@@ -79,10 +79,3 @@
 </p>
 
 ---
-
-### 🔥 Contributions Streak
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahimbaig28&theme=radical" alt="Rahim's GitHub Streak" />
-  </a>
-</p>
