@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahimbaig28&label=Profile%20views&color=0e75b6&style=flat" alt="rahimbaig28" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahimbaig28" alt="rahimbaig28" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rahimbaig28&margin-w=15&margin-h=15" alt="rahimbaig28" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on [Hate speech recognition](https://github.com/rahimbaig28/Hate-Speech-Recognision)
 
