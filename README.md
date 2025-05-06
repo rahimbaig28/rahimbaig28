@@ -9,33 +9,29 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rahimbaig28&margin-w=15&margin-h=15&theme=radical" alt="GitHub Trophies" />
-  </a>
-</p>
+## 🚀 Current Project
+- 🔬 **[Concrete Strength Analysis](https://github.com/rahimbaig28/Concrete-analysis)**  
+  A regression-based ML project to predict concrete compressive strength using XGBoost and feature importance visualizations.
 
 ---
 
-### 🔭 Current Project
-- **[Hate Speech Recognition](https://github.com/rahimbaig28/Hate-Speech-Recognision)**
-
-### 🌱 Currently Learning
-- **Machine Learning and GenAI**
-
-### 👨‍💻 Portfolio
-- [My Portfolio](https://rahimbaig28.github.io/My_portfolio/)
-
-### 📫 How to Reach Me
-- **rahimbaig00332211@Gmail.com**
+## 📚 Currently Learning
+- GenAI, ML Deployment & Prompt Engineering
 
 ---
 
-### 🌐 Connect with Me
+## 💼 Portfolio & Contact
+
+- 🌐 [My Portfolio Website](https://rahimbaig28.github.io/My_portfolio/)
+- 📬 Email: rahimbaig00332211@gmail.com
+
+---
+
+## 🌍 Connect with Me
+
 <p align="left">
   <a href="https://kaggle.com/rahimbaig00332211" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" height="30" width="40" />
   </a>
   <a href="https://instagram.com/rahimbaig28" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
@@ -44,40 +40,47 @@
 
 ---
 
-### 🛠️ Languages and Tools
+## 🧰 Tech Stack
+
 <p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <a href="https://xgboost.ai/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/XGBoost_logo.svg" alt="XGBoost" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
-  <!-- Add more tools as needed -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahimbaig28&show_icons=true&theme=radical" alt="Rahim's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahimbaig28&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rahimbaig28&margin-w=15&margin-h=15&theme=radical" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahimbaig28&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahimbaig28&layout=compact&theme=radical" alt="Top Languages" />
+</p>
