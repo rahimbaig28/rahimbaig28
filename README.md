@@ -10,11 +10,10 @@
 ---
 
 ## 🚀 Current Project
-- 🔬 **[Concrete Strength Analysis](https://github.com/rahimbaig28/Concrete-analysis)**  
-  A regression-based ML project to predict concrete compressive strength using XGBoost and feature importance visualizations.
+- 🧠 **[Neural Network for Classification](https://github.com/rahimbaig28/Neural-Network)**  
+  A neural network built from scratch in Python for binary classification tasks, featuring manual forward and backpropagation, loss visualization, and NumPy implementation.
 
 ---
-
 ## 📚 Currently Learning
 - GenAI, ML Deployment & Prompt Engineering
 
